@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-    printf("aqqaaa\n");aa
+    printf("aqqaaa\n");aabb
 }
